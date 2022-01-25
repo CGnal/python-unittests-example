@@ -21,6 +21,8 @@ The fizzbuzz() function located in _src/fizzbuzz.py_ file, can be tested by feed
 
 Pull your repository in your local machine, and complete the test cases in the file _tests/test_fizzbuzz.py_.
 
+Create a working branch, and complete the task.
+
 Please feel free to add other tests than the ones in the skeleton proposed.
 
 After having completed the task open a Pull Request on the remote repo.

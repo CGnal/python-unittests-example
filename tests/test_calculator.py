@@ -1,7 +1,6 @@
-from .context import src
 
 import unittest
-from src.calculator import Calculator
+from app.calculator import Calculator
 
 
 class TestCalculator(unittest.TestCase):

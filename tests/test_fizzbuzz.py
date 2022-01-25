@@ -1,7 +1,6 @@
-from .context import src
 
 import unittest
-from src.fizzbuzz import fizzbuzz
+from app.fizzbuzz import fizzbuzz
 
 
 class TestFizzBuzz(unittest.TestCase):
